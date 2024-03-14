@@ -42,7 +42,7 @@ tar -zx -f data/taxdump.tar.gz -C data/taxdump
 ## 编译
 
 ```shell
-git clone --recursive git@github.com:imkenley/libhtnxtools.git
+git clone --recursive https://github.com/imkenley/libhtnxtools.git
 cd libhtnxtools
 mkdir build
 cd build
