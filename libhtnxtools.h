@@ -1,6 +1,7 @@
 #ifndef LIBHTNXTOOLS_LIBHTNXTOOLS_H_
 #define LIBHTNXTOOLS_LIBHTNXTOOLS_H_
 
+#include <vector>
 #include <memory>
 #include <unordered_map>
 
